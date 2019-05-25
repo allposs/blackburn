@@ -277,3 +277,7 @@ $$ x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
 ## License
 
 * [MIT](//opensource.org/licenses/MIT)
+
+## Reference
+
+* [mermaid] https://github.com/knsv/mermaid
