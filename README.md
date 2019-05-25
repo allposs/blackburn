@@ -243,7 +243,7 @@ See [here](http://yoshiharuyamashita.com/post/hugo-shortcode-to-show-multiple-im
 ```
 
 ### flow chart
-
+```
   {{< mermaid >}}
   sequenceDiagram
       participant Alice
@@ -257,10 +257,12 @@ See [here](http://yoshiharuyamashita.com/post/hugo-shortcode-to-show-multiple-im
       John->Bob: How about you?
       Bob-->John: Jolly good!
   {{< /mermaid >}}
-
+```
 ### formula
 
-  $$ x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
+```
+$$ x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
+```
 
 #### Named
 
